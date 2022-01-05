@@ -52,5 +52,11 @@ The images used in each buttun are provided in image folder.
 
 The Web app looks alike:-
 
-![frontpage]()
+![frontpage](drumgame.png)
 
+## Acknowledgement
+
+I enjoyed creating this project very much.I would deeply like to thank my teacher and instructor angela yhu for motivating me and teaching me required skills for this simple beginner project.
+
+**Thank You .....**
+See you soon in Next repo with some diffrent project !
