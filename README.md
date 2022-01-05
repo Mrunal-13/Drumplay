@@ -34,7 +34,7 @@ The Web application is built on three diffrent languages. **HTML,JS,CSS**.
 
 We have manipulated the classes predefined in our css code by using documnet query selector.
 
-We divided it in two componenets 1>playsound 2>animate
+We divided it in two componenets 1>playsound    2>animate
 
 The play sound function triggers the key instrument selected and creates new audio to play respective audio.
 
